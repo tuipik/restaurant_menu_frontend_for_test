@@ -1,3 +1,13 @@
+Client: React for communication with server Django RESTful API
+
+It's just one page with an HTML table including columns with name of the dishes and price. 
+
+The application has one input for search and button.
+- The users are able to sort by columns at clicking on the headers of a column.
+- Additionally the user is able to search by names at clicking on the search button.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
